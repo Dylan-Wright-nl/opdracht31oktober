@@ -1,0 +1,57 @@
+input.naam{
+    height: 70px;
+    width: auto;
+    position: relative;
+    top: 250px;
+    left: 300px;
+    font-size: 35px;
+}
+input.submit{
+    height: 50px;
+    width: auto;
+    position: relative;
+    top: 350px;
+    left: 320px; 
+    font-size: 40px;
+}
+
+
+.lightblue{
+    height: 20px;
+    width: 20px;
+    background-color: lightblue;
+    border: 1px solid black;
+    position: relative;
+    top: 600px;
+    left: 300px;
+}
+
+.lightred{
+    height: 20px;
+    width: 20px;
+    background-color: lightcoral;
+    border: 1px solid black; 
+    position: relative;
+    top: 600px;
+    left: 550px;
+}
+
+.lightgreen{
+    height: 20px;
+    width: 20px;
+    background-color: lightgreen;
+    border: 1px solid black; 
+    position: relative;
+    top: 600px;
+    left: 800px;
+}
+
+.lightgrey{
+    height: 20px;
+    width: 20px;
+    background-color: lightgrey;
+    border: 1px solid black; 
+    position: relative;
+    top: 600px;
+    left: 1000px;
+}
